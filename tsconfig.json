@@ -1,0 +1,17 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./patterns/abstract_factory" },
+    { "path": "./patterns/adapter" },
+    { "path": "./patterns/command" },
+    { "path": "./patterns/composite" },
+    { "path": "./patterns/factory_method" },
+    { "path": "./patterns/iterator" },
+    { "path": "./patterns/observer" },
+    { "path": "./patterns/simple_factory" },
+    { "path": "./patterns/singleton" },
+    { "path": "./patterns/state" },
+    { "path": "./patterns/strategy" },
+    { "path": "./patterns/template" }
+  ]
+}

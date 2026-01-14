@@ -1,0 +1,25 @@
+{
+  "name": "head_first_design_patterns",
+  "description": "Examples of design patterns from the book: Head First Design Patterns",
+  "scripts": {
+  "build": "tsc -b",
+  "clean": "rm -rf dist",
+  "abstract_factory": "ts-node patterns/abstract_factory/src/index.ts",
+  "adapter": "ts-node patterns/adapter/src/index.ts",
+  "command": "ts-node patterns/command/src/index.ts",
+  "composite": "ts-node patterns/composite/src/index.ts",
+  "factory_method": "ts-node patterns/factory_method/src/index.ts",
+  "iterator": "ts-node patterns/iterator/src/index.ts",
+  "observer": "ts-node patterns/observer/src/index.ts",
+  "simple_factory": "ts-node patterns/simple_factory/src/index.ts",
+  "singleton": "ts-node patterns/singleton/src/index.ts",
+  "state": "ts-node patterns/state/src/index.ts",
+  "strategy": "ts-node patterns/strategy/src/index.ts",
+  "template": "ts-node patterns/template/src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

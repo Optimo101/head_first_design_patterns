@@ -1,0 +1,8 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "../../dist/observer",
+    "rootDir": "./src"
+  },
+  "include": ["src"],
+}
