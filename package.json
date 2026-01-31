@@ -8,6 +8,7 @@
   "adapter": "ts-node patterns/adapter/src/index.ts",
   "command": "ts-node patterns/command/src/index.ts",
   "composite": "ts-node patterns/composite/src/index.ts",
+  "facade": "ts-node patterns/facade/src/index.ts",
   "factory_method": "ts-node patterns/factory_method/src/index.ts",
   "iterator": "ts-node patterns/iterator/src/index.ts",
   "observer": "ts-node patterns/observer/src/index.ts",
